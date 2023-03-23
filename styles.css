@@ -52,3 +52,7 @@ video{
 .player_two h3{
     margin: 2px;
 }
+
+ul{
+    list-style: none;
+}
